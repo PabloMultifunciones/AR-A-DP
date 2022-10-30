@@ -30,11 +30,9 @@ Se puede usar una distribución uniforme discreta para representar una variable 
 
 Sea X una variable aleatoria discreta con n valores en el intervalo [a, b]. X tiene una distribución uniforme discreta si su pmf está definido por
 
-
  ![Zih4KSA9IFxmcmFjMW4_100](https://user-images.githubusercontent.com/95035101/198897609-2fecc627-41b8-4f4a-b163-24ed717b8584.svg)
 
 para x=1, 2, 3, … n. Tiene la siguiente forma:
-
 
 ![discrete-uniform-distribution](https://user-images.githubusercontent.com/95035101/198897654-536344c9-b205-4065-837e-a2daf85f730d.png)
 
@@ -45,13 +43,12 @@ Se utiliza una distribución binomial para modelar un experimento en el que solo
 
 El pmf para una distribución binomial es:
 
-
 ![Zih4KSA9IFxiaW5vbXtufXt4fXBeeHFee24teH0_100](https://user-images.githubusercontent.com/95035101/198897707-aeded70f-96a7-4236-907f-a737e8848515.svg)
 
-p es la probabilidad de éxito de una prueba individual
-q=1 – p es la probabilidad de falla
-n es el número de pruebas
-x es el número de éxitos de n ensayos
+p es la probabilidad de éxito de una prueba individual  
+q=1 – p es la probabilidad de falla  
+n es el número de pruebas  
+x es el número de éxitos de n ensayos  
 
 ![XGJpbm9te259e3h9ID0gXGZyYWN7biF9e3ghKG4teCkhfQ_100](https://user-images.githubusercontent.com/95035101/198897718-de85bdae-ce12-44f5-8b0c-fc22592f1223.svg)
 
