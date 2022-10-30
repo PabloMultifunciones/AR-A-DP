@@ -16,6 +16,7 @@ Lo anterior es un ejemplo de una distribución de probabilidad discreta. Tenga e
 
 Todas las distribuciones de probabilidad se pueden clasificar como distribuciones de probabilidad discretas o distribuciones de probabilidad continuas.
 
+#
 ### Distribución de probabilidad discreta ###
 
 Una distribución de probabilidad es discreta o continua dependiendo de si la variable aleatoria es discreta o continua. Una variable discreta solo puede tomar valores distintos, como el lanzamiento de una moneda que cae en cara o cruz, o el número de estudiantes en una clase. La moneda solo puede caer en cara o cruz, mientras que el número de estudiantes en una clase es un número específico, como 20. No puede haber 20.5 estudiantes, 30.7 estudiantes, etc.
@@ -72,7 +73,9 @@ El pmf para una distribución de Poisson es
 
 e ≈ 2.718 es el número de Euler.
 
-Distribución de probabilidad continua
+#
+### Distribución de probabilidad continua ###
+
 Una variable continua es aquella que puede tomar cualquier valor dentro de algún intervalo, y una distribución de probabilidad continua es la distribución de probabilidad de una variable aleatoria continua. Los ejemplos de variables continuas incluyen la altura y el peso. Hay límites superior e inferior para la altura y el peso humanos, pero dentro de esos límites, hay un número infinito de alturas y pesos posibles. Por ejemplo, es poco probable que dos personas que miden 5 pies y 8 pulgadas de alto tengan exactamente la misma altura. En cambio, su altura probablemente varía en algún valor decimal que no se puede medir con precisión.
 
 La probabilidad de que una variable aleatoria continua adopte cualquier resultado individual es 0, por lo que, a diferencia de las distribuciones de probabilidad discretas, las distribuciones de probabilidad continuas no se pueden representar mediante una tabla. En cambio, las distribuciones de probabilidad continuas se representan típicamente mediante una función de densidad de probabilidad, que se puede usar para determinar la probabilidad de que la variable aleatoria se encuentre dentro de un cierto rango de valores. La siguiente figura es un ejemplo de una distribución de probabilidad continua.
@@ -101,7 +104,8 @@ Una distribución normal es simétrica con respecto a su media, y la mayoría de
 
 Una de las razones por las que la distribución normal es tan importante y de uso común es porque muchas cantidades físicas, como la altura y el peso, tienen distribuciones casi normales. Debido a esto, muchas pruebas estadísticas están diseñadas para su uso con poblaciones distribuidas normalmente. Por lo tanto, dado que una cantidad en estudio exhibe una distribución normal, los investigadores pueden usar muchos métodos estadísticos confiables para hacer inferencias sobre la población basándose en muestras recolectadas.
 
-Distribución uniforme continua
+### Distribución uniforme continua ###
+
 Una distribución uniforme continua es un tipo de distribución de probabilidad simétrica que tiene la siguiente función de densidad de probabilidad:
 
 ![Zih4KT0gXGJlZ2lue2Nhc2VzfSB7XGZyYWN7MX17Yi1hfX0sICYge2EgXGxlIHggXGxlIGJ9IFxcIHswfSwgJiB7XHRleHR7b3RoZXJ3aXNlfX0gXGVuZHtjYXNlc30_100](https://user-images.githubusercontent.com/95035101/198897926-b084d616-31b9-49b7-9f99-7d101c8d4970.svg)
