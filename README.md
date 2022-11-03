@@ -71,6 +71,9 @@ Se puede utilizar una distribución de Poisson para modelar la probabilidad de q
 
 El pmf para una distribución de Poisson es
 
+![z](https://user-images.githubusercontent.com/95035101/199779051-34adf4b9-d99e-4230-83c8-1c9077590f27.png)
+
+λ>0
 e ≈ 2.718 es el número de Euler.
 
 #
