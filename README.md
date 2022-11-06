@@ -107,6 +107,8 @@ Una distribución normal es simétrica con respecto a su media, y la mayoría de
 
 Una de las razones por las que la distribución normal es tan importante y de uso común es porque muchas cantidades físicas, como la altura y el peso, tienen distribuciones casi normales. Debido a esto, muchas pruebas estadísticas están diseñadas para su uso con poblaciones distribuidas normalmente. Por lo tanto, dado que una cantidad en estudio exhibe una distribución normal, los investigadores pueden usar muchos métodos estadísticos confiables para hacer inferencias sobre la población basándose en muestras recolectadas.
 
+![Desviación-estándar-655x655](https://user-images.githubusercontent.com/95035101/200177058-c21bd201-5426-4c9f-a73d-7b037a4eafa5.png)
+
 ### Distribución uniforme continua ###
 
 Una distribución uniforme continua es un tipo de distribución de probabilidad simétrica que tiene la siguiente función de densidad de probabilidad:
